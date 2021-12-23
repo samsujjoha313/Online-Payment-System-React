@@ -1,0 +1,68 @@
+.navbar{
+    background-color: rgb(219, 228, 231);
+}
+ul li{
+    font-size: 18px;
+    padding:0px 8px;
+}
+ul li a:hover{
+    color:rgb(122, 159, 192);
+    
+    border-bottom: 2px solid red;
+ 
+}
+.img1{
+    top:70px;
+}
+.img2{
+    top:110px;
+    right:100px;
+}
+.btn{
+    top:460px;
+    left:550px;
+    width: 100px;
+    height: 30px;
+
+    text-align: center;
+}
+
+.service{
+    margin-top: 100px;
+}
+.icon{
+    margin-left: 20px;
+    font-size: 30px;
+}
+.icon1{
+    margin-left: 150px;
+    font-size: 30px;
+}
+.icon2{
+    margin-left: 30px;
+    font-size: 30px;
+}
+.service-page{
+
+    background-color: rgb(207, 241, 248);
+}
+.text1{
+    font-size: 30px;
+}
+.txt{
+    font-size: 30px;
+}
+.img-tag{
+    margin-left: 100px;
+}
+
+.about-page{
+
+    background-color: rgb(207, 241, 248);
+   
+    
+}
+.demo:hover{
+    transition: 2s;
+    transform: scale(1.1);
+}
